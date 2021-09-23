@@ -16,6 +16,12 @@ function nextQuestion(thisQuestion, nextQuestion) {
 }
 
 
-// function to calculate results???? // 
+// function to calculate results???
+// function findResults() {
+
+// document.querySelectorAll('input[type="radio"]:checked')
+
+// }
+// value?? 
 
 
