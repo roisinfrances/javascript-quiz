@@ -16,7 +16,7 @@ function nextQuestion(thisQuestion, nextQuestion) {
 }
 
 
-// function to calculate results???
+// function to calculate results
 
 function findResults() {
     const answersQ1 = document.querySelectorAll('input[name="q1"]');
